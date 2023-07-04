@@ -76,7 +76,7 @@ transition: all 0.5s ease;
     width: 1280px;
     padding: 0px 150px;
     flex-direction: column;
-    align-items: flex-start;
+    align-items: center;
     gap: 48px;
     width: 1280px;
 }
