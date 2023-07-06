@@ -21,6 +21,8 @@
     display: inline-flex;
     flex-direction: row;
     align-items: center;
+    text-decoration: none;
+    cursor: pointer;
   }
   .logo-text {
     font-family: 'Inter';
